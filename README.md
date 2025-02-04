@@ -9,7 +9,7 @@
 </div>
 
 ### 👩‍🦳 Sobre mim 
-Sou graduanda de Sistemas de Informação 🎓 e desenvolvedora em formação. Sou entusiasta de tecnologia 💻💓 e amo aprender e trabalhar com novas tecnologias.
+Sou graduada de Sistemas de Informação 🎓 e Engenheira de Dados na Globo. Sou entusiasta de tecnologia 💻💓 e amo aprender e trabalhar com novas tecnologias.
 
 - 🙂 Pronomes: ela/dela
 - 🌱 Aprendendo React e Typescript
